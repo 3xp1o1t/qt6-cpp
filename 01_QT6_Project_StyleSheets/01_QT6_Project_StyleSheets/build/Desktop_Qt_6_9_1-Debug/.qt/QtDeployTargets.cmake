@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_01_QT6_Project_StyleSheets_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/01_QT6_Project_StyleSheets/01_QT6_Project_StyleSheets/build/Desktop_Qt_6_9_1-Debug/01_QT6_Project_StyleSheets)
+set(__QT_DEPLOY_TARGET_01_QT6_Project_StyleSheets_TYPE EXECUTABLE)
