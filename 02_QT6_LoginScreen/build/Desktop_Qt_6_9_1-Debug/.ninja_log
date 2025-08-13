@@ -1,0 +1,18 @@
+# ninja log v5
+4	35	1755112679017679039	02_QT6_LoginScreen_autogen/timestamp	b09404d45f6226f0
+4	35	1755112679017679039	02_QT6_LoginScreen_autogen/mocs_compilation.cpp	b09404d45f6226f0
+4	35	1755112679017679039	/media/jesusmontiel/Datos/Desarrollos/QTProjects/02_QT6_LoginScreen/build/Desktop_Qt_6_9_1-Debug/02_QT6_LoginScreen_autogen/timestamp	b09404d45f6226f0
+4	35	1755112679017679039	/media/jesusmontiel/Datos/Desarrollos/QTProjects/02_QT6_LoginScreen/build/Desktop_Qt_6_9_1-Debug/02_QT6_LoginScreen_autogen/mocs_compilation.cpp	b09404d45f6226f0
+431	2336	1755110282100409057	CMakeFiles/02_QT6_LoginScreen.dir/02_QT6_LoginScreen_autogen/mocs_compilation.cpp.o	c474ee3fd14378b5
+431	2385	1755110282148408572	CMakeFiles/02_QT6_LoginScreen.dir/main.cpp.o	aaa5f629260e6854
+37	2145	1755112681214683845	CMakeFiles/02_QT6_LoginScreen.dir/mainwindow.cpp.o	b33a764bf0371de1
+2145	2493	1755112681559684593	02_QT6_LoginScreen	ffed62f18d377344
+4	30	1755114317610613468	02_QT6_LoginScreen_autogen/timestamp	b09404d45f6226f0
+4	30	1755114317610613468	02_QT6_LoginScreen_autogen/mocs_compilation.cpp	b09404d45f6226f0
+4	30	1755114317610613468	/media/jesusmontiel/Datos/Desarrollos/QTProjects/02_QT6_LoginScreen/build/Desktop_Qt_6_9_1-Debug/02_QT6_LoginScreen_autogen/timestamp	b09404d45f6226f0
+4	30	1755114317610613468	/media/jesusmontiel/Datos/Desarrollos/QTProjects/02_QT6_LoginScreen/build/Desktop_Qt_6_9_1-Debug/02_QT6_LoginScreen_autogen/mocs_compilation.cpp	b09404d45f6226f0
+32	1670	1755114319293642109	02_QT6_LoginScreen_autogen/EWIEGA46WW/qrc_resources.cpp	8a8dd52d225f2f13
+32	1670	1755114319293642109	/media/jesusmontiel/Datos/Desarrollos/QTProjects/02_QT6_LoginScreen/build/Desktop_Qt_6_9_1-Debug/02_QT6_LoginScreen_autogen/EWIEGA46WW/qrc_resources.cpp	8a8dd52d225f2f13
+1670	3859	1755114321512679761	CMakeFiles/02_QT6_LoginScreen.dir/mainwindow.cpp.o	b33a764bf0371de1
+1671	16518	1755114334165892072	CMakeFiles/02_QT6_LoginScreen.dir/02_QT6_LoginScreen_autogen/EWIEGA46WW/qrc_resources.cpp.o	b52549796d739987
+16519	16978	1755114334625899713	02_QT6_LoginScreen	bb0e4af6cb1948ba

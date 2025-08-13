@@ -74,7 +74,7 @@ background: yellow;
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>140</y>
+      <y>130</y>
       <width>160</width>
       <height>16</height>
      </rect>

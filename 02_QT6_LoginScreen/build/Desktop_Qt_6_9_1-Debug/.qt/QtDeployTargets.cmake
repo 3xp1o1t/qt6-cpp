@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_02_QT6_LoginScreen_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/02_QT6_LoginScreen/build/Desktop_Qt_6_9_1-Debug/02_QT6_LoginScreen)
+set(__QT_DEPLOY_TARGET_02_QT6_LoginScreen_TYPE EXECUTABLE)
