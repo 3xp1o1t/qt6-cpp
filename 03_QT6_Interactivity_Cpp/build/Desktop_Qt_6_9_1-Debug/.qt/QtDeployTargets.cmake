@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_03_QT6_Interactivity_Cpp_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/03_QT6_Interactivity_Cpp/build/Desktop_Qt_6_9_1-Debug/03_QT6_Interactivity_Cpp)
+set(__QT_DEPLOY_TARGET_03_QT6_Interactivity_Cpp_TYPE EXECUTABLE)

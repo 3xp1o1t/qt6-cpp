@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-118724f24effe5512b7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03_QT6_Interactivity_Cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03_QT6_Interactivity_Cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_QT6_Interactivity_Cpp-Debug-506c6c3d288bf1230c40.json",
+					"name" : "03_QT6_Interactivity_Cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_QT6_Interactivity_Cpp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_QT6_Interactivity_Cpp_autogen-Debug-52ddc51b84bbac0ccb09.json",
+					"name" : "03_QT6_Interactivity_Cpp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_QT6_Interactivity_Cpp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_QT6_Interactivity_Cpp_autogen_timestamp_deps-Debug-eaf9c47bb190b88b9685.json",
+					"name" : "03_QT6_Interactivity_Cpp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/jesusmontiel/Datos/Desarrollos/QTProjects/03_QT6_Interactivity_Cpp/build/Desktop_Qt_6_9_1-Debug",
+		"source" : "/media/jesusmontiel/Datos/Desarrollos/QTProjects/03_QT6_Interactivity_Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
