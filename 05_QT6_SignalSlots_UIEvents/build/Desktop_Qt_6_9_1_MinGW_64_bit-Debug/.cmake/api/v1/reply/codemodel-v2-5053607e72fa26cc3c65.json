@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2291bd7ecd34b1d311f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_QT6_SignalSlots_UIEvents",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_QT6_SignalSlots_UIEvents::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_QT6_SignalSlots_UIEvents-Debug-8dd4f6e65b6dbf1c436f.json",
+					"name" : "05_QT6_SignalSlots_UIEvents",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_QT6_SignalSlots_UIEvents_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_QT6_SignalSlots_UIEvents_autogen-Debug-d03393e4430d4ebdbcd8.json",
+					"name" : "05_QT6_SignalSlots_UIEvents_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_QT6_SignalSlots_UIEvents_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_QT6_SignalSlots_UIEvents_autogen_timestamp_deps-Debug-56681ae3643b494632f5.json",
+					"name" : "05_QT6_SignalSlots_UIEvents_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jesmo/Documents/QT_Development/qt6-cpp/05_QT6_SignalSlots_UIEvents/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/jesmo/Documents/QT_Development/qt6-cpp/05_QT6_SignalSlots_UIEvents"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
