@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_06_QT6_AsyncOps_Signals_Slots_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/06_QT6_AsyncOps_Signals_Slots)
+set(__QT_DEPLOY_TARGET_06_QT6_AsyncOps_Signals_Slots_TYPE EXECUTABLE)

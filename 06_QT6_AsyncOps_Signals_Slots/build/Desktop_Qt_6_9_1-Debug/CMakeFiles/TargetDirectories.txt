@@ -1,0 +1,9 @@
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/06_QT6_AsyncOps_Signals_Slots.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/06_QT6_AsyncOps_Signals_Slots_autogen_timestamp_deps.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/06_QT6_AsyncOps_Signals_Slots/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/06_QT6_AsyncOps_Signals_Slots_autogen.dir
