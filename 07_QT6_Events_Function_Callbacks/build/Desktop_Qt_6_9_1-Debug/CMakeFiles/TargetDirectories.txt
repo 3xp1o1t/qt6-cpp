@@ -1,0 +1,9 @@
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/07_QT6_Events_Function_Callbacks.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/07_QT6_Events_Function_Callbacks_autogen_timestamp_deps.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/07_QT6_Events_Function_Callbacks_autogen.dir

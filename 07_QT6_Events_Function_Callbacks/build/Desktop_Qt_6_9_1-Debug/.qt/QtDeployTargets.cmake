@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_07_QT6_Events_Function_Callbacks_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/07_QT6_Events_Function_Callbacks/build/Desktop_Qt_6_9_1-Debug/07_QT6_Events_Function_Callbacks)
+set(__QT_DEPLOY_TARGET_07_QT6_Events_Function_Callbacks_TYPE EXECUTABLE)
