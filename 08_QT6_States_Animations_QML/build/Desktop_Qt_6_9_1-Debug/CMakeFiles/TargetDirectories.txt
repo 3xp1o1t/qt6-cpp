@@ -1,0 +1,9 @@
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/08_QT6_States_Animations_QML.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/08_QT6_States_Animations_QML_autogen_timestamp_deps.dir
+/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/08_QT6_States_Animations_QML_autogen.dir

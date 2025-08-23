@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_08_QT6_States_Animations_QML_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug/08_QT6_States_Animations_QML)
+set(__QT_DEPLOY_TARGET_08_QT6_States_Animations_QML_TYPE EXECUTABLE)
