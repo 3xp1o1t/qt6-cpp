@@ -426,79 +426,22 @@
 	/media/jesusmontiel/Datos/QT6/6.9.1/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake \
 	/media/jesusmontiel/Datos/QT6/6.9.1/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	/media/jesusmontiel/Datos/QT6/6.9.1/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeNinjaFindMake.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeSystem.cmake.in \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/FeatureSummary.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
@@ -507,13 +450,10 @@
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/FindThreads.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/FindVulkan.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/MacroAddFileDependencies.cmake \
-	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-Determine-CXX.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-GNU-CXX.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-GNU.cmake \
 	/media/jesusmontiel/Datos/QT6/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake \

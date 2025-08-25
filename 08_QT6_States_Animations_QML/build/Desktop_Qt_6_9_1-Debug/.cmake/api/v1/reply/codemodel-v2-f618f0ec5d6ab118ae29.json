@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4c6fc350b1d818640a2d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "08_QT6_States_Animations_QML",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "08_QT6_States_Animations_QML::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_QT6_States_Animations_QML-Debug-59e46b938055a6d70367.json",
+					"name" : "08_QT6_States_Animations_QML",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_QT6_States_Animations_QML_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_QT6_States_Animations_QML_autogen-Debug-34d04d47dd9e6e7905a6.json",
+					"name" : "08_QT6_States_Animations_QML_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_QT6_States_Animations_QML_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_QT6_States_Animations_QML_autogen_timestamp_deps-Debug-d789c4ac08ad7ea74d98.json",
+					"name" : "08_QT6_States_Animations_QML_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML/build/Desktop_Qt_6_9_1-Debug",
+		"source" : "/media/jesusmontiel/Datos/Desarrollos/QTProjects/08_QT6_States_Animations_QML"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

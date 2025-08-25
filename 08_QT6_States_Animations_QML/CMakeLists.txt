@@ -23,6 +23,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(08_QT6_States_Animations_QML
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        statemachine.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET 08_QT6_States_Animations_QML APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
