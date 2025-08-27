@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-116b23c8cc73a172cc23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "09_QT6_State_Machine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "09_QT6_State_Machine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_QT6_State_Machine-Debug-c5a7afb192da8a60ccd1.json",
+					"name" : "09_QT6_State_Machine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09_QT6_State_Machine_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_QT6_State_Machine_autogen-Debug-b5de4a7f3bfa926e8cf3.json",
+					"name" : "09_QT6_State_Machine_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09_QT6_State_Machine_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_QT6_State_Machine_autogen_timestamp_deps-Debug-55389257bcc536c753f9.json",
+					"name" : "09_QT6_State_Machine_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/jesusmontiel/Datos/Desarrollos/QTProjects/09_QT6_State_Machine/build/Desktop_Qt_6_9_2-Debug",
+		"source" : "/media/jesusmontiel/Datos/Desarrollos/QTProjects/09_QT6_State_Machine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

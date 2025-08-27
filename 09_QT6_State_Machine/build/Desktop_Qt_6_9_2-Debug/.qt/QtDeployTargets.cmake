@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_09_QT6_State_Machine_FILE /media/jesusmontiel/Datos/Desarrollos/QTProjects/09_QT6_State_Machine/build/Desktop_Qt_6_9_2-Debug/09_QT6_State_Machine)
+set(__QT_DEPLOY_TARGET_09_QT6_State_Machine_TYPE EXECUTABLE)
